@@ -56,7 +56,7 @@ with col1:
 with col2:
         st.subheader('VT20243942')
 
-st.title("Equipment Calibration and Stock Monitoring Dashboard")
+st.title("Calibration Due Date Management System")
 
 # Upload CSV file
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
