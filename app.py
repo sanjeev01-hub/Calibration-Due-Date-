@@ -54,7 +54,7 @@ with col1:
         st.image(image)
         
 with col2:
-        st.subheader('VT20243942')
+        st.write('VT20243942')
 
 st.title("Calibration Due Date Management System")
 
