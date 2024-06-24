@@ -54,9 +54,9 @@ with col1:
         st.image(image)
         
 with col2:
-        st.write('VT20243942')
+        st.write('Sanjeev Kumar Sharma(VT20243942) ')
 
-st.title("Calibration Due Date Management System")
+st.title("Calibration Due Date And Monitoring System Dashboard")
 
 # Upload CSV file
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
